@@ -151,7 +151,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "white" }}
+              sx={{ fontFamily: "Bangers", color: "#f27474" }}
             >
               Buy Token
             </Typography>
@@ -159,7 +159,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "white" }}
+              sx={{ fontFamily: "Bangers", color: "#f27474" }}
               onClick={() => {
                 setIsApproveDone(false);
                 props.handleModalShowHide(false);
@@ -188,7 +188,7 @@ function BuyTokenModal(props) {
                   flex: 1,
                 }}
               ></input>
-              <div style={{ color: "white", marginLeft: "10px" }}>BUSD</div>
+              <div style={{ color: "#f27474", marginLeft: "10px" }}>BUSD</div>
             </Box>
             <Box style={{ display: "flex", justifyContent: "space-between" }}>
               {!active ? (

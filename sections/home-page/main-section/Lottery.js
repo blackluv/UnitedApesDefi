@@ -40,7 +40,7 @@ const Lottery = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "white" }}
+                    sx={{ fontFamily: "Bangers", color: "#f27474" }}
                   >
                     The Lottery
                   </Typography>
@@ -51,12 +51,11 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "white",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
-                  - UAD will hold a lottery every 12 hours and everyone can
-                  participate ⏰
+                  - Everyone can participate in our lottery every 12 hours ⏰
                 </Typography>
                 <Typography
                   variant="h5"
@@ -64,12 +63,11 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "white",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
-                  - NFT holders will have a fixed amount of free entries into
-                  every lottery determined by the level of NFTs they hold 🎟
+                  - NFT holders will have free lifetime entries into the lottery determined by the level of NFT they hold 🎟
                 </Typography>
                 <Typography
                   variant="h5"
@@ -77,7 +75,7 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "white",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
@@ -90,7 +88,7 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "white",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
@@ -153,7 +151,7 @@ const Lottery = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{ fontFamily: "Bangers", color: "white", fontSize: "50px" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
               >
                 The Lottery
               </Typography>
@@ -173,7 +171,7 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
@@ -188,7 +186,7 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
@@ -203,7 +201,7 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
@@ -218,7 +216,7 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",

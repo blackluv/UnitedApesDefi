@@ -48,7 +48,7 @@ const AutoStaking = () => {
                   variant="h3"
                   gutterBottom
                   component="div"
-                  sx={{ fontFamily: "Bangers", color: "white" }}
+                  sx={{ fontFamily: "Bangers", color: "#f27474" }}
                 >
                   Auto Staking
                 </Typography>
@@ -59,7 +59,7 @@ const AutoStaking = () => {
                 component="div"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "white",
+                  color: "#f27474",
                   lineHeight: "45px",
                   textAlign: "left",
                 }}
@@ -101,7 +101,7 @@ const AutoStaking = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "white",
+                  color: "#f27474",
                   fontSize: { xs: "50px", md: "53px" },
                 }}
               >
@@ -123,7 +123,7 @@ const AutoStaking = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "30px",
                 textAlign: "center",
                 fontWeight: 400,

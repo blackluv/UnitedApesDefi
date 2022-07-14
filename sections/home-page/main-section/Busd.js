@@ -61,7 +61,7 @@ const Busd = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "white" }}
+                    sx={{ fontFamily: "Bangers", color: "#f27474" }}
                   >
                     BUSD reflections
                   </Typography>
@@ -72,15 +72,11 @@ const Busd = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "white",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
-                  $UAD is a reflection coin that rewards holders with BUSD
-                  reflections from taxes on every buy/sell. Every time there is
-                  a buy 2% is reflected back to holders on every sell 4% is
-                  reflected back to holders in the form of the stable coin
-                  Binance USD (BUSD)
+                  On every buy 2% is reflected back to all holders, on every sell 4% is reflected back to all holders in the form of the stable coin BUSD
                 </Typography>
                 <Button
                   sx={{
@@ -131,7 +127,7 @@ const Busd = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{ fontFamily: "Bangers", color: "white", fontSize: "50px" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
               >
                 BUSD reflections
               </Typography>
@@ -148,7 +144,7 @@ const Busd = () => {
             <Typography
               sx={{
                 fontFamily: "Bangers",
-                color: "white",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
